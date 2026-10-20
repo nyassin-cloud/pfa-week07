@@ -81,3 +81,13 @@ This result demonstrates mesh generation and review, not animation-ready edge fl
 
 - [Autodesk: Retopologize settings](https://help.autodesk.com/cloudhelp/2026/ENU/Maya-Modeling/files/GUID-FDE163EE-39C1-421E-AC31-9956D21F6D0F.htm)
 - [Autodesk: polyRetopo node attributes](https://help.autodesk.com/cloudhelp/2026/ENU/Maya-Tech-Docs/Nodes/polyRetopo.html)
+
+Peer Review Clarification
+
+I accidentally sent Nora Wentz my bridge assignment from last week instead of this week’s Maya Character Retopology Assistant. Her feedback below applies to the bridge assignment, not the retopology tool.
+
+This was her review:
+As per the README's instructions, I downloaded the project's zip file, unzipped it, then opened Adobe Substance 3D Painter, imported the octo_bridge.py, reloaded the plugin folder for the change to take effect, got a live connection, and had my agent make me an object to UV unwrap which it did successfully. By following the README, the tool ran as intended yet there were things that could have streamlined the experience. Nothing broke nor was I confused but I would have preferred an installer that installed the tool and triggered Painter's plugin reload in one move; the tool is functional and has great potential, yet currently lacks the simplicity needed for a general user's experience.
+
+A peer run of this week’s retopology assistant is still pending.
+
